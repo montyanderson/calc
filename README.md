@@ -1,5 +1,5 @@
 # calc
-Calculating irrational numbers in C and C++.
+Calculating general things in Maths with C and C++.
 
 ## Requirements
  * [Decimal for C++ library](https://github.com/vpiotr/decimal_for_cpp)

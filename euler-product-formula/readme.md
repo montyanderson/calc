@@ -7,7 +7,7 @@ Calculating [Euler's product formula](https://en.wikipedia.org/wiki/Proof_of_the
 ## Running
 
 ```
-$ g++ euler-sum-product.cpp && ./a.out
+$ g++ euler-product-formula.cpp && ./a.out
 ...
 {sum} 1.202
 {pro} 1.20204
